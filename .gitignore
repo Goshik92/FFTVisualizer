@@ -1,0 +1,11 @@
+### Eclipse ###
+/Video/
+
+### Quartus ###
+db/
+incremental_db/
+output_files/
+simulation/
+PLLJ_PLLSPE_INFO.txt
+*.bak
+greybox_tmp/
