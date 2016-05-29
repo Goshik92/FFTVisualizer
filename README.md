@@ -22,6 +22,10 @@ VGA: VESA 1024x768@70 Hz<br />
 FFT range: 0 - 1/4 Fs<br />
 Fs: 48 828.125 Hz
 
+# Block diagram
+
+![alt tag](https://www.dropbox.com/s/bg2g003zykzvpz0/BlockDiagram.png?raw=1)
+
 # Example
 
 [Watch the video of working](https://www.dropbox.com/s/856fmr8i4wgyl42/video-example.webm?raw=1)
