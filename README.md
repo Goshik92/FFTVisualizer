@@ -1,4 +1,3 @@
-
 ![alt tag](https://www.dropbox.com/s/kuagdh0ddndpmlt/photo-example.jpg?raw=1)
 
 # Description
