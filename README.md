@@ -2,7 +2,7 @@
 
 # Description
 
-In this project I designed a system that shows DSP opportunities of FPGA solutions. The FPGA design consist of:<br />
+In this project I designed a system that shows DSP capabilities of FPGA solutions. The FPGA design consists of:<br />
 1) Finite-state machine for configuration an audio codec via I2C.<br />
 2) I2S receiver for acquiring data from the audio codec.<br />
 3) 6-order low-pass IIR filter to demonstrate filtering capabilities of FPGA.<br />
